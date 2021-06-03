@@ -13,8 +13,6 @@ import com.miaoshaproject.service.model.ItemModel;
 import com.miaoshaproject.service.model.PromoModel;
 import com.miaoshaproject.validator.ValidationResult;
 import com.miaoshaproject.validator.ValidatorImpl;
-import jdk.nashorn.internal.ir.GetSplitState;
-import org.hibernate.validator.constraints.br.TituloEleitoral;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
